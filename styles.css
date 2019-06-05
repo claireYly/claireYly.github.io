@@ -1,0 +1,28 @@
+* {
+	box-sizing: border-box;
+}
+
+.header {
+	text-align: center;
+	background-color: red;	
+}
+
+.p {
+	text-align:center;
+}
+
+
+
+
+.colum {
+	float: Left;
+	width: 33.33%;
+	padding: 15px;
+}
+
+@media screen and (max-width:600px){
+	
+.column (
+			width:100%;
+		)
+}
